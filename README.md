@@ -30,4 +30,4 @@ I'm passionate about technology, with a strong focus on projects and entrepreneu
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/pietro-vieira-96790523/)  
-- [Email](mailto:contatodopietro@gmail.com)
+- [Email](mailto:deztyz@gmail.com)
