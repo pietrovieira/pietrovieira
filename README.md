@@ -31,6 +31,7 @@ I'm passionate about technology, with a strong focus on projects and entrepreneu
 ## Projects
  - [MCP Server](https://mcp.nexjuris.app.br/)
  - [SaaS/lawyer](https://app-nexjuris.nexoestrategicoapps.site/)
+ - [KYC - FaceTec](https://github.com/pietrovieira/kyc-stack)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/pietro-vieira-96790523/)  
