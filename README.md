@@ -16,7 +16,7 @@ I'm passionate about technology, with a strong focus on projects and entrepreneu
 
 ## Skills
 - **Back-End**: Ruby on Rails  
-- **Front-End**: ReactJS  
+- **Front-End**: ReactJS, Next.js, Vue.js, Stimulus, JQuery, Vanilla JS
 - **Mobile**: React Native, Flutter  
 - **Databases**: Extensive experience with various databases (e.g., PostgreSQL, MySQL, MongoDB)  
 - **Notifications**: Expertise in implementing notification systems  
