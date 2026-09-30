@@ -28,6 +28,11 @@ I'm passionate about technology, with a strong focus on projects and entrepreneu
 - **English**: C1+  
 - **Spanish**: C1+
 
+##knowledge
+- BullMQ - RabbitMQ
+- Sentry
+- Observability (Sentry - OpenTelemetry)
+
 ## Projects
  - [MCP Server](https://mcp.nexjuris.app.br/)
  - [SaaS/lawyer](https://app-nexjuris.nexoestrategicoapps.site/)
